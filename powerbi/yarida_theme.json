@@ -1,0 +1,19 @@
+{
+  "name": "Yarida navy and teal",
+  "dataColors": ["#0E7C86", "#E07A5F", "#10233F", "#5FA3AD", "#F2B880", "#A9CDD1", "#B2182B", "#8C9AAD"],
+  "background": "#FFFFFF",
+  "foreground": "#10233F",
+  "tableAccent": "#0E7C86",
+  "good": "#0E7C86",
+  "neutral": "#F2B880",
+  "bad": "#B2182B",
+  "maximum": "#10233F",
+  "center": "#5FA3AD",
+  "minimum": "#EEF3F8",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#10233F" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#10233F" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#5B6B80" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#0E7C86" }
+  }
+}

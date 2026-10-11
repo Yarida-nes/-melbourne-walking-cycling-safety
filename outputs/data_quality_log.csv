@@ -1,0 +1,15 @@
+step,detail,n
+load,all Victorian crash records 2012 to Jan 2026,200754
+clean,duplicate crash numbers removed,0
+clean,metro Melbourne crashes,142967
+clean,January 2026 records dropped (partial year),89
+clean,non-injury records dropped (outside scope),3
+clean,records with missing or out-of-area coordinates dropped,0
+scope,crashes involving a pedestrian,14378
+scope,crashes involving a cyclist,16357
+scope,crashes involving either (VRU),30469
+hotspot,pedestrian and cyclist crashes 2021-2025,10428
+hotspot,hexagons in study area,4363
+hotspot,share of 2021-25 pedestrian/cyclist crashes inside 99% hot spots (%),49
+hotspot,hexagons in 99% hot spots,273
+hotspot,share of study-area hexagons that are 99% hot spots (%),6
